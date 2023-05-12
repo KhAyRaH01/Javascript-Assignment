@@ -1,2 +1,2 @@
 # Javascript-assignment 
-It's my first attempth on Javascript.
+It's my first attempt on Javascript.
